@@ -1,5 +1,5 @@
 # RBLXAutorestart-with-onlyvip
-just the implementation of onlyvip to Curve's autorestart
+just the implementation of onlyvip to Curve's autorestart for you degenerates
 
 https://github.com/curv3ball/roblox-autorestart
 
