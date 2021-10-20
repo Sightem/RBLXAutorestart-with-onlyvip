@@ -1,7 +1,9 @@
-# RBLXAutorestart-with-onlyvip
-just the implementation of onlyvip to Curve's autorestart for you degenerates
+## This tool was meant to be used with Mrobswag's DungeonQuest script, which is long gone, leaving no real use for this.
 
-https://github.com/curv3ball/roblox-autorestart
+# RBLXAutorestart-with-onlyvip
+the implementation of onlyvip to Curve's autorestart
+
+https://github.com/curv3ball/roblox-autorestart (was privated/deleted sometime in 2021)
 
 You will need this: 
 
@@ -9,4 +11,6 @@ https://github.com/system69-e/onlyvip-anti-aids
 
 # Usage 
 
-simply put this in your workspace folder and run it once. then create a shortcut, modify the args by modifying the target, as an example C:\Users\user\Desktop\Synapse-X\workspace\RBLXAutorestart.exe -detecterrors -detectsynapse -onlyvip . 
+simply put this in your synapse workspace folder and run it once. then create a shortcut, modify the args by modifying the target, as an example:
+
+` C:\Users\[USERNAME]\Desktop\Synapse-X\workspace\RBLXAutorestart.exe -detecterrors -detectsynapse -onlyvip `
